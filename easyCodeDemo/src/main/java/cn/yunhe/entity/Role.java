@@ -22,7 +22,10 @@ public class Role implements Serializable {
      * 角色描述
      */
     private String roleDesc;
-
+    /**
+      *角色数量
+    */
+    private String roleNum;
 
     public Integer getId() {
         return id;
