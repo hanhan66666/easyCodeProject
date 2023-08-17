@@ -6,7 +6,7 @@ public class Orders {
   private Integer id;
   private Integer uid;
   private String ordertime;
-  private double money;
+  private int money;
 
 
   public Integer getId() {
