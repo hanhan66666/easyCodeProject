@@ -7,6 +7,7 @@ public class Orders {
   private Integer uid;
   private String ordertime;
   private int money;
+  privat String money;
 
 
   public Integer getId() {
